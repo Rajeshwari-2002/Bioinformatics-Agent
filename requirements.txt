@@ -1,0 +1,11 @@
+#Install the blow list of libraries before running the code
+
+streamlit
+pandas
+numpy
+plotly
+scipy
+lifelines
+statsmodels
+gseapy
+ollama
